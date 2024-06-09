@@ -1,0 +1,43 @@
+.uError{
+    color:red;
+}
+.pError{
+    color:red;
+}
+
+body{
+    background-color: rgb(183, 160, 183);
+}
+
+#username{
+    width: 270px;
+    height: 30px;
+    border-radius:5px;
+    border-color: rgb(231, 17, 17);
+    border: 3px solid;
+}
+#password{
+    width: 270px;
+    height: 30px;
+    border-radius:5px;
+}
+#subbtn{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+.container{
+    border: 2px solid ;
+    width: 400px;
+    height: 300px;
+    padding-left: 20px ;
+    padding-bottom: 20px ;
+    border-color: darkmagenta;
+    border-radius: 4%;
+    align-items: center;
+    margin-left: 565px;
+    margin-top: 200px;
+    /* text-align: center; */
+}
